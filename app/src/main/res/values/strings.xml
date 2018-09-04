@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Mobile Attendance</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_link_to_register">Not a member? Sign up now.</string>
+    <string name="btn_link_to_login">Already registred! Login Me.</string>
+    <string name="welcome">Welcome</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="btn_proceed">PROCEED</string>
+    <string name="btn_stuList">Student List</string>
+    <string name="btn_takeAtt">Take Attendance</string>
+    <string name="btn_viewAtt">View Attendance</string>
+    <string name="btn_100level">100Level</string>
+    <string name="btn_200level">200Level</string>
+    <string name="btn_300level">300Level</string>
+    <string name="btn_400level">400Level</string>
+    <string name="btn_500level">500Level</string>
+    <string name="name">Fullname</string>
+    <string name="select">Select Level</string>
+    <string name="select1">Select Action</string>
+    <string name="title_activity_dashboard">DashboardActivity</string>
+</resources>
